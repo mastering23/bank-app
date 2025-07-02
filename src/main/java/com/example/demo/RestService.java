@@ -12,4 +12,9 @@ public class RestService {
     public String greetings() {
         return "Hello World";
     }
+
+    @GetMapping("/testing")
+    public String testing(){
+        return "testing is working";
+    }
 }

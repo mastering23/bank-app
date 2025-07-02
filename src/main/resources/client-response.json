@@ -1,0 +1,95 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "date": "2025-07-01",
+      "description": "Office Rent",
+      "category": "Expense",
+      "amount": 1500.00,
+      "currency": "USD",
+      "type": "debit"
+    },
+    {
+      "id": 2,
+      "date": "2025-07-01",
+      "description": "Software Subscription",
+      "category": "Expense",
+      "amount": 79.99,
+      "currency": "USD",
+      "type": "debit"
+    },
+    {
+      "id": 3,
+      "date": "2025-07-01",
+      "description": "Client Payment - Project A",
+      "category": "Income",
+      "amount": 3000.00,
+      "currency": "USD",
+      "type": "credit"
+    },
+    {
+      "id": 4,
+      "date": "2025-07-02",
+      "description": "Utility Bill",
+      "category": "Expense",
+      "amount": 220.45,
+      "currency": "USD",
+      "type": "debit"
+    },
+    {
+      "id": 5,
+      "date": "2025-07-02",
+      "description": "Coffee Shop Meeting",
+      "category": "Expense",
+      "amount": 24.85,
+      "currency": "USD",
+      "type": "debit"
+    },
+    {
+      "id": 6,
+      "date": "2025-07-02",
+      "description": "Online Course Sale",
+      "category": "Income",
+      "amount": 99.00,
+      "currency": "USD",
+      "type": "credit"
+    },
+    {
+      "id": 7,
+      "date": "2025-07-03",
+      "description": "Advertising - Google Ads",
+      "category": "Expense",
+      "amount": 350.00,
+      "currency": "USD",
+      "type": "debit"
+    },
+    {
+      "id": 8,
+      "date": "2025-07-03",
+      "description": "Freelance Work - Design",
+      "category": "Income",
+      "amount": 500.00,
+      "currency": "USD",
+      "type": "credit"
+    },
+    {
+      "id": 9,
+      "date": "2025-07-03",
+      "description": "Charity Donation",
+      "category": "Expense",
+      "amount": 100.00,
+      "currency": "USD",
+      "type": "debit"
+    },
+    {
+      "id": 10,
+      "date": "2025-07-03",
+      "description": "Book Purchase - Learning",
+      "category": "Expense",
+      "amount": 45.90,
+      "currency": "USD",
+      "type": "debit"
+    }
+  ]
+}
